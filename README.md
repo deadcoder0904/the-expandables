@@ -2,7 +2,7 @@
 
 # Screenshot
 
-![]()
+![Expandables](http://imgur.com/HbHpmE7.png)
 
 ## License
 
